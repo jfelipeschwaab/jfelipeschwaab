@@ -92,7 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jfelipeschwaab/jfelipeschwaab/output/snake.svg" alt="Snake animation" />
 
 ###
 
