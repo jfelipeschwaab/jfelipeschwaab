@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Desenvoledor Django na CRIA INCUBATOR<br>- Estudante de ciência da computação na Universidade Católica de Brasília (2024-2027)<br>- Apple Developer Academmy (2025-2026)<br>- Futuro Desenvolvedor Mobile</p>
+<p align="left">-<br>- Estudante de ciência da computação na Universidade Católica de Brasília (2024-2027)<br>- Apple Developer Academmy (2025-2026)<br>- Futuro Desenvolvedor Mobile</p>
 
 ###
 
