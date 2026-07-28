@@ -28,6 +28,10 @@ Construo APIs REST e aplicações web de ponta a ponta, com foco em arquitetura,
 🏆 <b>SINDSEI Tech Excellence</b> — prêmio de excelência técnica
 </p>
 
+## Projeto em destaque
+🔐 Carteira de Benefícios — simulação de ambiente financeiro
+Java · Spring Boot · JWT/OAuth2 · OTP · Kafka · Redis · Docker · CI/CD
+→ link do repositório
 ###
 
 <h2 align="left">Stack principal</h2>
