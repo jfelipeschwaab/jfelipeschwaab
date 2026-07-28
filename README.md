@@ -31,7 +31,7 @@ Construo APIs REST e aplicações web de ponta a ponta, com foco em arquitetura,
 ## Projeto em destaque
 🔐 Carteira de Benefícios — simulação de ambiente financeiro
 Java · Spring Boot · JWT/OAuth2 · OTP · Kafka · Redis · Docker · CI/CD
-→ link do repositório
+→ [link do repositório](https://github.com/jfelipeschwaab/MiniVale)
 ###
 
 <h2 align="left">Stack principal</h2>
